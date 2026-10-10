@@ -1,0 +1,6 @@
+{
+  "name": "ARYA GM — Plataforma de Jogos Interativos TikTok LIVE",
+  "description": "Plataforma de jogos interativos em tempo real para TikTok LIVE com Pipas Combat e Avatar Dance, integrador de eventos, motor de regras, saída OBS 9:16 e console de transmissão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
